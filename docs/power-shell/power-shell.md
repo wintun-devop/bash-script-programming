@@ -3,3 +3,6 @@
 ```
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 ```
+```
+powershell -ExecutionPolicy Bypass -File D:\bash-script-programming\window-power-shell\log-write-function\write-log.ps1
+```
